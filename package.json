@@ -1,7 +1,10 @@
 {
-  "name": "waterline-utils",
+  "name": "@mkz-service/waterline-utils",
   "version": "1.4.3",
   "description": "Various utilities for working with Waterline queries and adapters.",
+  "publishConfig": {
+    "registry": "https://nexus.mokooz.fr/repository/npm-private/"
+  },
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha test/unit --recursive",
     "fasttest": "node ./node_modules/mocha/bin/mocha test/unit --recursive",
