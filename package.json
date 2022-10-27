@@ -1,6 +1,6 @@
 {
   "name": "@mkz-service/waterline-utils",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "Various utilities for working with Waterline queries and adapters.",
   "publishConfig": {
     "registry": "https://nexus.mokooz.fr/repository/npm-private/"
